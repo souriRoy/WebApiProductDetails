@@ -1,0 +1,10 @@
+C:\Users\SouriRoy\Documents\Visual Studio 2015\Projects\WebApiProductDetails\ProductDataAccess\bin\Debug\ProductDataAccess.dll.config
+C:\Users\SouriRoy\Documents\Visual Studio 2015\Projects\WebApiProductDetails\ProductDataAccess\bin\Debug\ProductDataAccess.dll
+C:\Users\SouriRoy\Documents\Visual Studio 2015\Projects\WebApiProductDetails\ProductDataAccess\bin\Debug\ProductDataAccess.pdb
+C:\Users\SouriRoy\Documents\Visual Studio 2015\Projects\WebApiProductDetails\ProductDataAccess\bin\Debug\EntityFramework.dll
+C:\Users\SouriRoy\Documents\Visual Studio 2015\Projects\WebApiProductDetails\ProductDataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\SouriRoy\Documents\Visual Studio 2015\Projects\WebApiProductDetails\ProductDataAccess\bin\Debug\EntityFramework.xml
+C:\Users\SouriRoy\Documents\Visual Studio 2015\Projects\WebApiProductDetails\ProductDataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\SouriRoy\Documents\Visual Studio 2015\Projects\WebApiProductDetails\ProductDataAccess\obj\Debug\ProductDataAccess.csprojResolveAssemblyReference.cache
+C:\Users\SouriRoy\Documents\Visual Studio 2015\Projects\WebApiProductDetails\ProductDataAccess\obj\Debug\ProductDataAccess.dll
+C:\Users\SouriRoy\Documents\Visual Studio 2015\Projects\WebApiProductDetails\ProductDataAccess\obj\Debug\ProductDataAccess.pdb
